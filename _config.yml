@@ -1,3 +1,37 @@
 theme: jekyll-theme-minimal
 title: AI-LinkUp 2025
 description: "Página web del evento AI-LinkUp de la Universidad de Sonora."
+email: ai-linkup@unison.mx
+
+url: https://ai-linkup.github.io
+
+people:
+- name: Julio Waissman Vilanova
+  position: Responsable académico
+- name: Adrian Vazquez Osorio
+  position: Colaborador académico
+- name: Edelmira Rodriguez Alcantar
+  position: Colaboradora académico
+- name: Eduardo Acuña Yeomans
+  position: Colaborador académico
+- name: Jesus Francisco Espinoza Fierro
+  position: Colaborador académico
+- name: Juan Pablo Soto Barrera
+  position: Colaborador académico
+- name: Olivia Carolina Gutú Ocampo
+  position: Colaborador académico
+- name: Rosalia Guadalupe Hernandez Amador
+  position: Colaborador académico
+- name: Alan David Torres Flores
+  position: Colaborador estudiante
+- name: Braulio Alessandro Sanchez Bermudez
+  position: Colaborador estudiante
+- name: Dante Alejandro Tostado Cortes
+  position: Colaborador estudiante
+- name: Fausto Misael Medina Lugo
+  position: Colaborador estudiante
+- name: Manuel Eduardo Gortarez Blanco
+  position: Colaborador estudiante
+- name: Omar Pacheco Velasquez
+  position: Colaborador estudiante
+
