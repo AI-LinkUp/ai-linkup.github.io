@@ -1,0 +1,17 @@
+---
+title: Hackatón
+subtitle: Encuentra soluciones creativas a problemas reales, utilizando inteligencia artificial
+layout: default
+modal-id: 1
+date: 2025-10-06
+img: mapa.png
+thumbnail: mapa.png
+description: 
+excerpt_separator: <!--listo-->
+---
+
+#### Descripción
+
+TBD
+
+<!--listo-->
