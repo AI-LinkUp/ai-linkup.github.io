@@ -4,8 +4,8 @@ subtitle: Encuentra soluciones creativas a problemas reales, utilizando intelige
 layout: default
 modal-id: 1
 date: 2025-10-06
-img: mapa.png
-thumbnail: mapa.png
+img: hackaton.png
+thumbnail: hackaton.png
 description: 
 excerpt_separator: <!--listo-->
 ---
