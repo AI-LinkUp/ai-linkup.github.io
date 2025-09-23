@@ -10,6 +10,13 @@ description:
 excerpt_separator: <!--listo-->
 ---
 
+# Convocatoria
+
 [Convocatoria del concurso](/assets/concurso-canciones.pdf)
+
+# Miembros del jurado
+
+- Dra. Diana Brenscheidt genannt Jost, Departamento de Bellas Artes, UNISON
+- Dr. Fernando de Jesus Serrano Arias, Departamento de Bellas Artes, UNISON
 
 <!--listo-->

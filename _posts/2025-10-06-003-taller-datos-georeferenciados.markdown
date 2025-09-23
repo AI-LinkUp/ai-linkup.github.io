@@ -1,6 +1,6 @@
 ---
-title: Taller
-subtitle: Datos georeferenciados
+title: Taller de datos georeferenciados
+subtitle: Aprende a trabajar con datos que contienen ubicaciones geográficas
 layout: default
 modal-id: 3
 date: 2025-10-06
