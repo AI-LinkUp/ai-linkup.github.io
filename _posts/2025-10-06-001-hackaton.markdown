@@ -13,7 +13,6 @@ excerpt_separator: <!--listo-->
 ### Flyer
 
 <img src="/img/hackapalooza.jpeg" alt="Flyer hackapalooza" class="img-responsive img-centered">
-![Flyer Hackapalooza](/img/hackapalooza.jpeg)
 
 ### Registro de equipos
 
