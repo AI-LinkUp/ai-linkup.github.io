@@ -22,14 +22,13 @@ excerpt_separator: <!--listo-->
 
 El Hackapalooza es un hackatón pensado para que pongas a prueba tu creatividad y capacidad de resolver problemas reales en la sociedad usando Inteligencia Artificial.
 
-Los equipos contarán con asesores y los proyectos se asignan al azar. El propósito es trabajar en equipo, transformar datos en historias y proponer soluciones creativas que tengan impacto. Habrá pláticas para que llegues con las herramientas necesarias y, al final, presentarás tu proyecto frente a un jurado Lo que cuenta: tu idea y cómo trabajaron como equipo.
+Los equipos contarán con asesores asignados al azar. Cada equipo elige conjuntos de datos a analizar de una colección curada por el comité organizador. El propósito es trabajar en equipo, transformar datos en historias y proponer soluciones creativas que tengan impacto. Habrá pláticas para que llegues con las herramientas necesarias y, al final, presentarás tu proyecto frente a un jurado Lo que cuenta: tu idea y cómo trabajaron como equipo.
 
-Inscribite hoy junto a tu equipo, caile el 6 y 7 de octubre en la Uni y podrás ganar premios gracias a tu creatividad.
-1. LOS EQUIPOS DEBEN ESTAR CONFORMADOS DE LA SIGUIENTE FORMA:
-2. 5 INTEGRANTES POR EQUIPO
-3. 2 INTEGRANTES DEL MISMO SEMESTRE MÁXIMO
-4. EL RESTO DEBEN SER DE OTROS SEMESTRES, CON LA RESTRICCIÓN DEL PUNTO 2)
-5. SOLO SE PERMITE LA PARTICIPACIÓN DE ESTUDIANTES DEL DEPARTAMENTO DE MATEMÁTICAS
+Inscribite hoy junto a tu equipo, caile el 6 y 7 de octubre en la Uni y podrás ganar premios gracias a tu creatividad. Los equipos deben estar conformados dela siguiente manera:
+1. Un total de 5 integrantes por equipo
+2. Un máximo de 2 integrantes del mismo semestre.
+3. El resto deben ser de otros semestres, con la restricción del punto 2.
+4. Solo se permite la participación de estudiantes de la UNISON inscritos a los programas de la Lic. en Ciencias de la Computación y la Lic. en Matemáticas.
 
 ### Eventos
 
