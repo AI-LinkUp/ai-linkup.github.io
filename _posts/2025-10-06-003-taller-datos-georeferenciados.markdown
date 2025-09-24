@@ -1,6 +1,6 @@
 ---
-title: Taller de datos georeferenciados
-subtitle: Aprende a trabajar con datos que contienen ubicaciones geográficas
+title: Introducción al análisis de datos geoespaciales con QGIS y Python
+subtitle: Taller de datos georeferenciados
 layout: default
 modal-id: 3
 date: 2025-10-06
