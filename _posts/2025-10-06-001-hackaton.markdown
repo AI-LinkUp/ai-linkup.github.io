@@ -1,6 +1,6 @@
 ---
 title: Hackatón
-subtitle: Encuentra soluciones creativas a problemas reales, utilizando inteligencia artificial
+subtitle: Encuentra soluciones creativas a problemas con datos reales
 layout: default
 modal-id: 1
 date: 2025-10-06
