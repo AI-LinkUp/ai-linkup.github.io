@@ -10,8 +10,8 @@ description:
 excerpt_separator: <!--listo-->
 ---
 
-#### Descripción
+<img src="img/about/janneth.png" class="img-responsive img-centered" alt="" style="width: 50%" >
 
-TBD
+Impartido por Maria Janneth Rivera Reyna, Universidad de Sonora.
 
 <!--listo-->
