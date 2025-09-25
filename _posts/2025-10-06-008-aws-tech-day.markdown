@@ -1,0 +1,15 @@
+---
+title: AWS/Amazon Tech day @ UNISON
+subtitle: TBD
+layout: default
+modal-id: 1
+date: 2025-10-06
+img: aws.png
+thumbnail: aws.png
+description: 
+excerpt_separator: <!--listo-->
+---
+
+TBD
+
+<!--listo-->
