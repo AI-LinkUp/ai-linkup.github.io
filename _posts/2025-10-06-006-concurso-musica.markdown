@@ -2,7 +2,7 @@
 title: Algoritmos en Armonía, Matemáticas en Melodía
 subtitle: Concurso de canciones generadas con IA
 layout: default
-modal-id: 2
+modal-id: 6
 date: 2025-10-06
 img: concurso-canciones.png
 thumbnail: concurso-canciones.png

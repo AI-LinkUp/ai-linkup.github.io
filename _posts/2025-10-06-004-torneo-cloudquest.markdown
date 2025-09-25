@@ -2,7 +2,7 @@
 title: AWS Skill Builder Cloud Quest
 subtitle: Torneo para introducirte en el mundo de la nube de AWS
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2025-10-06
 img: torneoaws.png
 thumbnail: torneoaws.png
