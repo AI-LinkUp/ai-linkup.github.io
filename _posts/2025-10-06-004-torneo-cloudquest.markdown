@@ -14,6 +14,10 @@ excerpt_separator: <!--listo-->
 
 [Convocatoria del torneo](/assets/torneo-cloudquest.pdf)
 
+# Sesión informativa
+
+[Enlace a sesión informativa por Teams](https://events.teams.microsoft.com/event/be46f8b1-faa9-434d-8f49-e5cb4307ddcb@67553645-0db3-4480-b127-6f819a79e367)
+
 # ¿Qué es AWS Skill Builder Cloud Quest?
 
 **AWS Skill Builder Cloud Quest** es un *juego serio* (un juego diseñado con un propósito educativo principal) dentro de la plataforma de aprendizaje *AWS Skill Builder*. Su objetivo es enseñar conceptos fundamentales de la nube de AWS de una manera *práctica, interactiva y entretenida*.
