@@ -2,7 +2,7 @@
 title: AWS/Amazon Tech day @ UNISON
 subtitle: TBD
 layout: default
-modal-id: 1
+modal-id: 8
 date: 2025-10-06
 img: aws.png
 thumbnail: aws.png
