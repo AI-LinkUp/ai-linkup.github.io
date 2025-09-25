@@ -2,7 +2,7 @@
 title: Hackatón
 subtitle: Encuentra soluciones creativas a problemas con datos reales
 layout: default
-modal-id: 9
+modal-id: #portfolioModal9
 date: 2025-10-06
 img: hackaton.png
 thumbnail: hackaton.png
