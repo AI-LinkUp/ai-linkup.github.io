@@ -14,4 +14,13 @@ excerpt_separator: <!--listo-->
 
 <img src="/img/aws-techday-01.jpeg" alt="Flyer AWS TechDay" class="img-responsive img-centered" style="width: 75%">
 
+#### Participantes
+
+- María Elena Martínez Manzanares
+- Jordan Joel Urias Paramo
+- César Mendoza Canales
+- Sergio Hiram Marrufo Gomez
+- Francisco Enrique Cordova Gonzalez
+- Lisania Valencia
+
 <!--listo-->
