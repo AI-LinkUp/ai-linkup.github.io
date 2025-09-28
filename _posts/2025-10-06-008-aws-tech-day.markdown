@@ -1,6 +1,6 @@
 ---
 title: AWS/Amazon Tech day @ UNISON
-subtitle: TBD
+subtitle: Proceso de entrevista, demostración de mock interview y más
 layout: default
 modal-id: 8
 date: 2025-10-06
