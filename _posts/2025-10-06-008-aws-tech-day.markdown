@@ -18,27 +18,27 @@ excerpt_separator: <!--listo-->
 
 ##### María Elena Martínez Manzanares, Deep Learning Architect, Amazon Web Services
 
-<img src="img/portfolio/MalenaManzanares.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/MalenaManzanares.jpeg" class="img-responsive img-centered" style="width: 25%" >
 
 ##### Jordan Joel Urias Paramo, Business Intel Engineer II, RoW OPS, Amazon
 
-<img src="img/portfolio/Jordan.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/Jordan.jpg" class="img-responsive img-centered" style="width: 25%" >
 
 ##### César Mendoza Canales, Senior Technical Trainer, Amazon Web Services
 
-<img src="img/portfolio/CesarMendoza.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/CesarMendoza.jpg" class="img-responsive img-centered" style="width: 25%" >
 
 ##### Sergio Hiram Marrufo Gomez, Support Engineer III, Audible
 
-<img src="img/portfolio/Sergio.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/Sergio.png" class="img-responsive img-centered" style="width: 25%" >
 
 ##### Francisco Enrique Cordova Gonzalez, Software Developer Engineer II, Amazon, Intech Mexico
 
-<img src="img/portfolio/Francisco.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/Francisco.jpg" class="img-responsive img-centered" style="width: 25%" >
 
 ##### Lisania Valencia, Tech Sourcer Recruiter, Amazon Stores
 
-<img src="img/portfolio/Lisania.jpeg" class="img-responsive img-centered" style="width: 3rem" >
+<img src="img/portfolio/Lisania.jpg" class="img-responsive img-centered" style="width: 25%" >
 
 
 <!--listo-->
