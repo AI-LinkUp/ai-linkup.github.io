@@ -14,7 +14,7 @@ excerpt_separator: <!--listo-->
 
 <img src="/img/aws-techday-01.jpeg" alt="Flyer AWS TechDay" class="img-responsive img-centered" style="width: 75%">
 
-#### Participantes
+### Participantes
 
 ##### María Elena Martínez Manzanares, Deep Learning Architect, Amazon Web Services
 
@@ -39,6 +39,20 @@ excerpt_separator: <!--listo-->
 ##### Lisania Valencia, Tech Sourcer Recruiter, Amazon Stores
 
 <img src="img/portfolio/Lisania.jpg" class="img-responsive img-centered" style="width: 25%" >
+
+### Programa
+
+- 8:30 - 9:00: **Registro al evento**
+- 9:00 - 10:30: **El proceso de entrevista de entrevita de Amazon**
+  - Etapas que lo componen
+  - Características comunes del puesto
+  - Descripción del proceso de entrevista cualitativo
+  - Descripción de puestos comunes en México
+- 10:30 - 11:00: **Receso**
+- 11:00 - 12:30: **Mock/Taller entrevista de Software Developer Engineer**
+- 12:30 - 13:00: **Receso**
+- 13:00 - 14:00: **AWS Training and Certification**
+- 14:00: **Premiación Torneo AWS CloudQuest**
 
 
 <!--listo-->
