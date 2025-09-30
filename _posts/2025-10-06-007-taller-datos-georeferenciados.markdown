@@ -10,6 +10,8 @@ description:
 excerpt_separator: <!--listo-->
 ---
 
+[Información del taller](/assets/taller-datos-georeferenciados.pdf)
+
 <img src="img/about/janneth.png" class="img-responsive img-centered" alt="" style="width: 50%" >
 
 Impartido por Maria Janneth Rivera Reyna, Universidad de Sonora.
