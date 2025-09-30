@@ -43,7 +43,7 @@ excerpt_separator: <!--listo-->
 ### Programa
 
 - 8:30 - 9:00: **Registro al evento**
-- 9:00 - 10:30: **El proceso de entrevista de entrevita de Amazon**
+- 9:00 - 10:30: **El proceso de entrevista de Amazon**
   - Etapas que lo componen
   - Características comunes del puesto
   - Descripción del proceso de entrevista cualitativo
