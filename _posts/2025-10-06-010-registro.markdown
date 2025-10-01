@@ -10,8 +10,8 @@ description:
 excerpt_separator: <!--listo-->
 ---
 
-#### Descripción
+[Información de pláticas y conversatorios](/assets/platicas-y-conversatorios.pdf)
 
-TBD
+<img src="img/portfolio/qr-inscripcion.jpeg" class="img-responsive img-centered" alt="" style="width: 50%" >
 
 <!--listo-->
