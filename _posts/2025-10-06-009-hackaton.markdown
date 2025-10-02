@@ -22,9 +22,9 @@ excerpt_separator: <!--listo-->
 
 El Hackapalooza es un hackatón pensado para que pongas a prueba tu creatividad y capacidad de resolver problemas reales en la sociedad usando Inteligencia Artificial.
 
-Los equipos contarán con asesores asignados al azar. Cada equipo elige conjuntos de datos a analizar de una colección curada por el comité organizador. El propósito es trabajar en equipo, transformar datos en historias y proponer soluciones creativas que tengan impacto. Habrá pláticas para que llegues con las herramientas necesarias y, al final, presentarás tu proyecto frente a un jurado Lo que cuenta: tu idea y cómo trabajaron como equipo.
+Los equipos contarán con asesores asignados al azar. Cada equipo elige conjuntos de datos a analizar de una colección curada por el comité organizador. El propósito es trabajar en equipo, transformar datos en historias y proponer soluciones creativas que tengan impacto. Habrá pláticas para que llegues con las herramientas necesarias y, al final, presentarás tu proyecto frente a un jurado. Lo que cuenta: tu idea y cómo trabajaron como equipo.
 
-Inscribite hoy junto a tu equipo, caile el 6 y 7 de octubre en la Uni y podrás ganar premios gracias a tu creatividad. Los equipos deben estar conformados dela siguiente manera:
+Inscribite hoy junto a tu equipo, caile el 6 y 7 de octubre en la Uni y podrás ganar premios gracias a tu creatividad. Los equipos deben estar conformados de la siguiente manera:
 1. Un total de 5 integrantes por equipo
 2. Un máximo de 2 integrantes del mismo semestre.
 3. El resto deben ser de otros semestres, con la restricción del punto 2.
