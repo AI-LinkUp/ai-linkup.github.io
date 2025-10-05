@@ -12,6 +12,6 @@ excerpt_separator: <!--listo-->
 
 [Información de pláticas y conversatorios](/assets/platicas-y-conversatorios.pdf)
 
-<img src="img/portfolio/qr-inscripcion.jpeg" class="img-responsive img-centered" alt="" style="width: 50%" >
+<img src="img/portfolio/qr-inscripcion.png" class="img-responsive img-centered" alt="" style="width: 50%" >
 
 <!--listo-->
