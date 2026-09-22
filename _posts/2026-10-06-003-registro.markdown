@@ -16,8 +16,8 @@ excerpt_separator: <!--listo-->
  <!--[Entra al siguiente enlace:](https://luma.com/cmzmby7h "Registro al Simposio AI LinkUp 2026") -->
 
  <p align="center">
-  <a href="https://lu.ma" target="_blank" title="Registro al Simposio AI LinkUp 2026">
-    <img src="https://luma.com/cmzmby7h" alt="Botón de Registro" width="80%">
+  <a href="https://luma.com/cmzmby7h" target="_blank" title="Registro al Simposio AI LinkUp 2026">
+    <img src="https://unsplash.com" alt="Botón de Registro" width="80%">
   </a>
 </p>
 
