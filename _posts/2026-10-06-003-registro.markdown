@@ -13,7 +13,7 @@ excerpt_separator: <!--listo-->
 
 ### ¡Regístrate a AI-LinkUp 2026!
 
-##[Entra al siguiente enlace:](https://luma.com/cmzmby7h "Registro al Simposio AI LinkUp 2026")
+[###Entra al siguiente enlace:](https://luma.com/cmzmby7h "Registro al Simposio AI LinkUp 2026")
 
  
 
@@ -27,7 +27,7 @@ Te invitamos a formar parte de las conferencias magistrales, conversatorios y ac
 Auditorio Enrique Valle Flores (Edificio 3K1 planta baja), Departamento de Matemáticas, Universidad de Sonora.
 
 <p align="center">
-  <h2><a href="https://maps.app.goo.gl/JVW2FM1Dhtsap4ra9" target="_blank">📍 Ver Ubicación en Google Maps</a></h2>
+  <h1><a href="https://maps.app.goo.gl/JVW2FM1Dhtsap4ra9" target="_blank">📍 Ver Ubicación en Google Maps</a></h2>
 </p>
 
 <!--listo-->
