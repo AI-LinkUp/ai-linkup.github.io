@@ -1,4 +1,4 @@
-﻿---
+---
 title: Registro al evento
 subtitle: Participa en las actividades de AI-LinkUp 2026
 layout: default
@@ -17,7 +17,7 @@ excerpt_separator: <!--listo-->
 
  <p align="center">
   <a href="https://luma.com/cmzmby7h" target="_blank" title="Registro al Simposio AI LinkUp 2026">
-    <img src="https://unsplash.com" alt="Botón de Registro" width="80%">
+    <img src="/img/registrar.jpg" alt="" width="80%">
   </a>
 </p>
 
